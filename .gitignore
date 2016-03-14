@@ -10,6 +10,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Ignore /libs folder under /wwwroot
+src/aspnet5angular2/wwwroot/libs/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
